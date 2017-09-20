@@ -9,10 +9,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 You can even **[search my blog via Google](https://www.google.com/search?source=hp&q=the+running+franz&oq=the+running+franz)** or *go directly* to **[The Running Franz](https://therunningfranz.wordpress.com)**
 
 ```HTML
-<html><head>    <title>Franz Test</title>    <meta content="Franz Running Sandbox - GitHub playground." name="description">    <meta content="franz,running,github,io," name="keywords">    <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css' />    <link href="css/style.css" rel="stylesheet" type="text/css" /></head>
-<body>
-</body>
-</html>
+<h2>Example of code</h2>
+
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
 ```
 ### Markdown
 
