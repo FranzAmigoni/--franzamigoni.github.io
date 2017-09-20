@@ -1,2 +1,8 @@
 theme: jekyll-theme-modernist
 title: Welcome to Franz's homepage
+plugins:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
