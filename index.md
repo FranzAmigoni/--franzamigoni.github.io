@@ -12,6 +12,7 @@ You can even **[search my blog via Google](https://www.google.com/search?source=
 <!DOCTYPE html><html><head>    <title>Franz Test</title>    <meta content="Franz Running Sandbox - GitHub playground." name="description">    <meta content="franz,running,github,io," name="keywords">    <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css' />    <link href="css/style.css" rel="stylesheet" type="text/css" /></head>
 <body>
 </body>
+</html>
 ```
 ### Markdown
 
