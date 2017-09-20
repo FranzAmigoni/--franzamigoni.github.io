@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 You can even **[search my blog via Google](https://www.google.com/search?source=hp&q=the+running+franz&oq=the+running+franz)** or *go directly* to **[The Running Franz](https://therunningfranz.wordpress.com)**
 
-```HTML
+```html
 <h2>Example of code</h2>
 
 <pre>
