@@ -6,7 +6,8 @@ You can use the [editor on GitHub](https://github.com/FranzAmigoni/franzamigoni.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ```
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [search my blog via google](https://www.google.com/search?source=hp&q=the+running+franz&oq=the+running+franz)
+You can even **[search my blog via Google]**(https://www.google.com/search?source=hp&q=the+running+franz&oq=the+running+franz) or *go directly* to **[The Running Franz]**((https://therunningfranz.wordpress.com)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
