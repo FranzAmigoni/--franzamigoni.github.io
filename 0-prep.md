@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 0-Prep
+title: 0-prep
 ---
 
 vediamo se esce nell'header
