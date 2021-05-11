@@ -2,5 +2,5 @@
 layout: default
 ---
 <div>
-<img src="Imagine Your Advertising Here.png">
+<img src="img/Imagine Your Advertising Here.jpg">
 </div>
