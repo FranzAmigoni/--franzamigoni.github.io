@@ -13,5 +13,5 @@ layout: default
   <area shape="circle" coords="337,300,44" alt="Cup of coffee" href="coffee.htm"> -->
 </map>
 <div>
-<>
+
 </div>
